@@ -1,8 +1,8 @@
-1 mac  2000
-2 winxp 4000
-3 bsd 1000
-4 linux 1000
+[num] mac  [num][num][num][num]
+[num] winxp [num][num][num][num]
+[num] bsd [num][num][num][num]
+[num] linux [num][num][num][num]
 
-1010hellothis
-2134dacfafd
-3234fdfsfsf
+[num][num][num][num]hellothis
+[num][num][num][num]dacfafd
+[num][num][num][num]fdfsfsf

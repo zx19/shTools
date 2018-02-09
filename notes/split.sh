@@ -10,3 +10,5 @@
 #-l 行数分割
 
 # split -l 3 -a 4 ../data/data.txt  split_file
+echo "split"
+if [[ 0 != 0 ]]; then echo 'hi' fi

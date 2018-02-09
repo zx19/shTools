@@ -29,3 +29,4 @@ echo "line1 \n \nline2 " | tr -s '\n'
 # xdigit
 
 # echo "#!/bin/bash" > md5.sh
+
