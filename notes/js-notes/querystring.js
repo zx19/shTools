@@ -14,5 +14,4 @@ let escape = querystring.escape(query)
 log(escape)
 //
 let queryOb = querystring.parse('site=www.baidu.com&url=%2F%2Fbaidu')
-
 log(queryOb)
