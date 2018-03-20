@@ -37,16 +37,16 @@ function getClimbingWays2(n) {
 	}
 	let f1 = 1;
 	let f2 = 2;
-	let temp = 0
+	let fn = 0
 	for (var i = 3; i <= n; i++) {
 		temp = f1 + f2
 		f1 = f2
-		f2 = temp
+		f2 = fn
 	}
-	return temp
+	return fn
 }
-console.log(getClimbingWays(13))
-console.log(getClimbingWays2(13))
+// console.log(getClimbingWays(13))
+// console.log(getClimbingWays2(13))
 
 
 
