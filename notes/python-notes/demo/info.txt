@@ -1,0 +1,306 @@
+title:AWS云计算数据搜索与分析--- Amazon Elasticsearch
+content:
+			本课程主要讲解Amazon Elasticsearch作为一项完全托管的数据搜索和分析服务，它的技术优势和典型的应用场景，然后通过示例一步步指导如何轻松创建，访问、管理和维护Amazon Elasticsearch集群以及通过Amazon Elasticsearch内嵌的kibana进行数据展示。
+		
+title:使用 AWS 降低总拥有成本 (TCO)
+content:
+			了解TCO的大致概念；
+介绍传统数据中心的典型成本框架；
+分析传统数据中心在降低TCO上面临的挑战；
+了解AWS的定价基础
+介绍AWS如何帮助客户降低TCO及具体方法；
+简略介绍通过优化不断提升AWS云经济性的途径；
+		
+title:AWS 云产品—开始使用 AWS 上的 Microsoft SQL Server
+content:
+			AWS云核心产品课程将为您介绍云计算基础知识，让您更熟悉 AWS 基础服务如EC2、VPC、S3、EBS等，认识与 AWS 平台相关的术语和概念以及浏览 AWS 管理控制台，以便根据业务需求针对 IT 基础架构基础做出明智的决策并开始使用 AWS。 
+		
+title:云上的数据分析-实时流处理在AWS上的实现与实践
+content:
+			本课程讲解了AWS上的数据分析的技术云架构，解决方案、客户案例以及精彩在线演示。让如何解决您遇到数据处理的问题，大数据架构应遵循怎样的架构。
+		
+title:AWS云安全-数据加密和密钥管理
+content:
+			本课程了解AWS在安全防御领域的技术、解决方案、客户案例以及精彩在线演示。其中，讲解了动态和静态数据的加密保护和密钥管理；并介绍AWS KMS服务、AWS CloudHSM 最佳实践。
+		
+title:AWS云计算-Amazon ML 机器学习实战
+content:
+			想了解如何通过AWS满足您的业务需求？我们将在本课程中介绍面向各种应用场景的云服务及其搭建和使用方法，让AWS为您的业务应用提供高性能、低成本、安全的基础设施解决方案。 
+		
+title:AWS云计算-加速企业数据迁移上云
+content:
+			课程将结合实际案例，为您介绍如何在AWS云上部署应用，以及如何实现从传统数据中心向云端的迁移。
+		
+title:无服务器架构系列讲解 - Lambda + API Gateway
+content:
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程主要会以Demo形式讲解AWS Lambda的概念，编程模型、并发问题、版本控制 ，怎么构建Lambda函数， 配合DynamoDB进行数据库交互，配合S3进行事件触发（图片压缩、水印等），配合Kinesis就行实时流数据处理，配合SNS就行消息通知事件触发等，以及如何构建一个动态交互式网站。
+		
+title:微软人工智能 － 服务和API
+content:
+			以微软认知服务和机器人框架为代表的服务和API，让你的应用和服务可以轻而易举的拥有人的智慧。
+
+		
+title:在混合云模式中现代化您的微软应用程序
+content:
+			本课程将介绍混合云方法的各种好处。通过探索客户的成功案例，了解混合云方法带来哪些好处；了解如何通过Amazon Elastic Compute Cloud（EC2）削减成本；了解如何提高安全性而不影响性能。
+		
+title:AWS云中的设计高可用架构-弹性和高可用的思考
+content:
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		
+title:AWS EC2 RI 基本介绍
+content:
+			本课程对AWS EC2 RI的基本介绍及购买方法。
+		
+title:Amazon EC2 Container Service (ECS) 介绍
+content:
+			本课程Amazon EC2 Container Service介绍，教您快速使用ECS 运行服务，和上传ECS 镜像。
+		
+title:AWS云中的关系型数据库服务 RDS （下）—使用 Amazon RDS创建数据库
+content:
+			本期课程讲述AWS云中的负载均衡服务RDS（Amazon Relational Database Service ）。 AWS 云提供六种常用数据库引擎以供选择的托管关系数据库。只需单击数下，即可在云中设置、运行和扩展关系数据库。Amazon RDS 在多种类型的数据库实例 (针对内存、性能或 I/O 进行了优化的实例、) 上均可用，并提供六种常用的数据库引擎供您选择，包括 Amazon Aurora、PostgreSQL、MySQL、MariaDB、Oracle 和 Microsoft SQL Server。您可以使用 AWS Database Migration Service 轻松将您现有的数据库迁移或复制到 Amazon RDS。
+		
+title:AWS Lambda 无服务器计算
+content:
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程讲解Lambda的作用介绍， 如何撰写一个lambda 程序，使用Lambda的几个案例分享，只需上传您的代码，Lambda 会处理运行和扩展高可用性代码所需的一切工作。
+		
+title:AWS云中的内容分发设计
+content:
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		
+title:AWS 云中云存储服务
+content:
+			本课程中，AWS 架构师手把手教您使用云存储服务，让你快速上手 AWS 云存储服务。学完本课，你将理解基本的 S3 功能，建立S3的生命周期规则和存储服务。
+		
+title:大数据平台研发工程师深入解读
+content:
+			极客Talks是极客学院出品的一档谈话节目，会定期邀请每个行业/职业里最专业的嘉宾/CTO的好朋友做一次深度Talks，带领学员更好理解这个职业。本期邀请到神策网络创始人&amp;CTO曹犟，以聊天的形式，解读大数据平台研发工程师这个职业。
+		
+title:PaddlePaddle — 情感分析
+content:
+			本门课程讲解了使用PaddlePaddle框架实现情感分析功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 数字识别
+content:
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 图像分类
+content:
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 新手入门
+content:
+			本门课程为PaddlePaddle框架新手入门第一课，主要讲解相关技术背景：机器学习基础原理、热门算法推导、模型处理方案等。
+		
+title:百度文字识别技术
+content:
+			本课程主要针对API开发者，介绍百度OCR文字识别接口服务的相关技术内容。通过本门课程你将掌握OCR研发能力。
+		
+title:百度人脸识别技术
+content:
+			本课程从技术简介、能力应用、热门场景实战等全方位讲解人脸识别基础相关技术，引领开发者快速入门。
+		
+title:AWS云计算数据搜索与分析--- Amazon Elasticsearch
+content:
+			本课程主要讲解Amazon Elasticsearch作为一项完全托管的数据搜索和分析服务，它的技术优势和典型的应用场景，然后通过示例一步步指导如何轻松创建，访问、管理和维护Amazon Elasticsearch集群以及通过Amazon Elasticsearch内嵌的kibana进行数据展示。
+		
+title:使用 AWS 降低总拥有成本 (TCO)
+content:
+			了解TCO的大致概念；
+介绍传统数据中心的典型成本框架；
+分析传统数据中心在降低TCO上面临的挑战；
+了解AWS的定价基础
+介绍AWS如何帮助客户降低TCO及具体方法；
+简略介绍通过优化不断提升AWS云经济性的途径；
+		
+title:AWS 云产品—开始使用 AWS 上的 Microsoft SQL Server
+content:
+			AWS云核心产品课程将为您介绍云计算基础知识，让您更熟悉 AWS 基础服务如EC2、VPC、S3、EBS等，认识与 AWS 平台相关的术语和概念以及浏览 AWS 管理控制台，以便根据业务需求针对 IT 基础架构基础做出明智的决策并开始使用 AWS。 
+		
+title:云上的数据分析-实时流处理在AWS上的实现与实践
+content:
+			本课程讲解了AWS上的数据分析的技术云架构，解决方案、客户案例以及精彩在线演示。让如何解决您遇到数据处理的问题，大数据架构应遵循怎样的架构。
+		
+title:AWS云安全-数据加密和密钥管理
+content:
+			本课程了解AWS在安全防御领域的技术、解决方案、客户案例以及精彩在线演示。其中，讲解了动态和静态数据的加密保护和密钥管理；并介绍AWS KMS服务、AWS CloudHSM 最佳实践。
+		
+title:AWS云计算-Amazon ML 机器学习实战
+content:
+			想了解如何通过AWS满足您的业务需求？我们将在本课程中介绍面向各种应用场景的云服务及其搭建和使用方法，让AWS为您的业务应用提供高性能、低成本、安全的基础设施解决方案。 
+		
+title:AWS云计算-加速企业数据迁移上云
+content:
+			课程将结合实际案例，为您介绍如何在AWS云上部署应用，以及如何实现从传统数据中心向云端的迁移。
+		
+title:无服务器架构系列讲解 - Lambda + API Gateway
+content:
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程主要会以Demo形式讲解AWS Lambda的概念，编程模型、并发问题、版本控制 ，怎么构建Lambda函数， 配合DynamoDB进行数据库交互，配合S3进行事件触发（图片压缩、水印等），配合Kinesis就行实时流数据处理，配合SNS就行消息通知事件触发等，以及如何构建一个动态交互式网站。
+		
+title:微软人工智能 － 服务和API
+content:
+			以微软认知服务和机器人框架为代表的服务和API，让你的应用和服务可以轻而易举的拥有人的智慧。
+
+		
+title:在混合云模式中现代化您的微软应用程序
+content:
+			本课程将介绍混合云方法的各种好处。通过探索客户的成功案例，了解混合云方法带来哪些好处；了解如何通过Amazon Elastic Compute Cloud（EC2）削减成本；了解如何提高安全性而不影响性能。
+		
+title:AWS云中的设计高可用架构-弹性和高可用的思考
+content:
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		
+title:AWS EC2 RI 基本介绍
+content:
+			本课程对AWS EC2 RI的基本介绍及购买方法。
+		
+title:Amazon EC2 Container Service (ECS) 介绍
+content:
+			本课程Amazon EC2 Container Service介绍，教您快速使用ECS 运行服务，和上传ECS 镜像。
+		
+title:AWS云中的关系型数据库服务 RDS （下）—使用 Amazon RDS创建数据库
+content:
+			本期课程讲述AWS云中的负载均衡服务RDS（Amazon Relational Database Service ）。 AWS 云提供六种常用数据库引擎以供选择的托管关系数据库。只需单击数下，即可在云中设置、运行和扩展关系数据库。Amazon RDS 在多种类型的数据库实例 (针对内存、性能或 I/O 进行了优化的实例、) 上均可用，并提供六种常用的数据库引擎供您选择，包括 Amazon Aurora、PostgreSQL、MySQL、MariaDB、Oracle 和 Microsoft SQL Server。您可以使用 AWS Database Migration Service 轻松将您现有的数据库迁移或复制到 Amazon RDS。
+		
+title:AWS Lambda 无服务器计算
+content:
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程讲解Lambda的作用介绍， 如何撰写一个lambda 程序，使用Lambda的几个案例分享，只需上传您的代码，Lambda 会处理运行和扩展高可用性代码所需的一切工作。
+		
+title:AWS云中的内容分发设计
+content:
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		
+title:AWS 云中云存储服务
+content:
+			本课程中，AWS 架构师手把手教您使用云存储服务，让你快速上手 AWS 云存储服务。学完本课，你将理解基本的 S3 功能，建立S3的生命周期规则和存储服务。
+		
+title:大数据平台研发工程师深入解读
+content:
+			极客Talks是极客学院出品的一档谈话节目，会定期邀请每个行业/职业里最专业的嘉宾/CTO的好朋友做一次深度Talks，带领学员更好理解这个职业。本期邀请到神策网络创始人&amp;CTO曹犟，以聊天的形式，解读大数据平台研发工程师这个职业。
+		
+title:PaddlePaddle — 情感分析
+content:
+			本门课程讲解了使用PaddlePaddle框架实现情感分析功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 数字识别
+content:
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 图像分类
+content:
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 新手入门
+content:
+			本门课程为PaddlePaddle框架新手入门第一课，主要讲解相关技术背景：机器学习基础原理、热门算法推导、模型处理方案等。
+		
+title:百度文字识别技术
+content:
+			本课程主要针对API开发者，介绍百度OCR文字识别接口服务的相关技术内容。通过本门课程你将掌握OCR研发能力。
+		
+title:百度人脸识别技术
+content:
+			本课程从技术简介、能力应用、热门场景实战等全方位讲解人脸识别基础相关技术，引领开发者快速入门。
+		
+title:AWS云计算数据搜索与分析--- Amazon Elasticsearch
+content:
+			本课程主要讲解Amazon Elasticsearch作为一项完全托管的数据搜索和分析服务，它的技术优势和典型的应用场景，然后通过示例一步步指导如何轻松创建，访问、管理和维护Amazon Elasticsearch集群以及通过Amazon Elasticsearch内嵌的kibana进行数据展示。
+		
+title:使用 AWS 降低总拥有成本 (TCO)
+content:
+			了解TCO的大致概念；
+介绍传统数据中心的典型成本框架；
+分析传统数据中心在降低TCO上面临的挑战；
+了解AWS的定价基础
+介绍AWS如何帮助客户降低TCO及具体方法；
+简略介绍通过优化不断提升AWS云经济性的途径；
+		
+title:AWS 云产品—开始使用 AWS 上的 Microsoft SQL Server
+content:
+			AWS云核心产品课程将为您介绍云计算基础知识，让您更熟悉 AWS 基础服务如EC2、VPC、S3、EBS等，认识与 AWS 平台相关的术语和概念以及浏览 AWS 管理控制台，以便根据业务需求针对 IT 基础架构基础做出明智的决策并开始使用 AWS。 
+		
+title:云上的数据分析-实时流处理在AWS上的实现与实践
+content:
+			本课程讲解了AWS上的数据分析的技术云架构，解决方案、客户案例以及精彩在线演示。让如何解决您遇到数据处理的问题，大数据架构应遵循怎样的架构。
+		
+title:AWS云安全-数据加密和密钥管理
+content:
+			本课程了解AWS在安全防御领域的技术、解决方案、客户案例以及精彩在线演示。其中，讲解了动态和静态数据的加密保护和密钥管理；并介绍AWS KMS服务、AWS CloudHSM 最佳实践。
+		
+title:AWS云计算-Amazon ML 机器学习实战
+content:
+			想了解如何通过AWS满足您的业务需求？我们将在本课程中介绍面向各种应用场景的云服务及其搭建和使用方法，让AWS为您的业务应用提供高性能、低成本、安全的基础设施解决方案。 
+		
+title:AWS云计算-加速企业数据迁移上云
+content:
+			课程将结合实际案例，为您介绍如何在AWS云上部署应用，以及如何实现从传统数据中心向云端的迁移。
+		
+title:无服务器架构系列讲解 - Lambda + API Gateway
+content:
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程主要会以Demo形式讲解AWS Lambda的概念，编程模型、并发问题、版本控制 ，怎么构建Lambda函数， 配合DynamoDB进行数据库交互，配合S3进行事件触发（图片压缩、水印等），配合Kinesis就行实时流数据处理，配合SNS就行消息通知事件触发等，以及如何构建一个动态交互式网站。
+		
+title:微软人工智能 － 服务和API
+content:
+			以微软认知服务和机器人框架为代表的服务和API，让你的应用和服务可以轻而易举的拥有人的智慧。
+
+		
+title:在混合云模式中现代化您的微软应用程序
+content:
+			本课程将介绍混合云方法的各种好处。通过探索客户的成功案例，了解混合云方法带来哪些好处；了解如何通过Amazon Elastic Compute Cloud（EC2）削减成本；了解如何提高安全性而不影响性能。
+		
+title:AWS云中的设计高可用架构-弹性和高可用的思考
+content:
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		
+title:AWS EC2 RI 基本介绍
+content:
+			本课程对AWS EC2 RI的基本介绍及购买方法。
+		
+title:Amazon EC2 Container Service (ECS) 介绍
+content:
+			本课程Amazon EC2 Container Service介绍，教您快速使用ECS 运行服务，和上传ECS 镜像。
+		
+title:AWS云中的关系型数据库服务 RDS （下）—使用 Amazon RDS创建数据库
+content:
+			本期课程讲述AWS云中的负载均衡服务RDS（Amazon Relational Database Service ）。 AWS 云提供六种常用数据库引擎以供选择的托管关系数据库。只需单击数下，即可在云中设置、运行和扩展关系数据库。Amazon RDS 在多种类型的数据库实例 (针对内存、性能或 I/O 进行了优化的实例、) 上均可用，并提供六种常用的数据库引擎供您选择，包括 Amazon Aurora、PostgreSQL、MySQL、MariaDB、Oracle 和 Microsoft SQL Server。您可以使用 AWS Database Migration Service 轻松将您现有的数据库迁移或复制到 Amazon RDS。
+		
+title:AWS Lambda 无服务器计算
+content:
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程讲解Lambda的作用介绍， 如何撰写一个lambda 程序，使用Lambda的几个案例分享，只需上传您的代码，Lambda 会处理运行和扩展高可用性代码所需的一切工作。
+		
+title:AWS云中的内容分发设计
+content:
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		
+title:AWS 云中云存储服务
+content:
+			本课程中，AWS 架构师手把手教您使用云存储服务，让你快速上手 AWS 云存储服务。学完本课，你将理解基本的 S3 功能，建立S3的生命周期规则和存储服务。
+		
+title:大数据平台研发工程师深入解读
+content:
+			极客Talks是极客学院出品的一档谈话节目，会定期邀请每个行业/职业里最专业的嘉宾/CTO的好朋友做一次深度Talks，带领学员更好理解这个职业。本期邀请到神策网络创始人&amp;CTO曹犟，以聊天的形式，解读大数据平台研发工程师这个职业。
+		
+title:PaddlePaddle — 情感分析
+content:
+			本门课程讲解了使用PaddlePaddle框架实现情感分析功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 数字识别
+content:
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 图像分类
+content:
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		
+title:PaddlePaddle — 新手入门
+content:
+			本门课程为PaddlePaddle框架新手入门第一课，主要讲解相关技术背景：机器学习基础原理、热门算法推导、模型处理方案等。
+		
+title:百度文字识别技术
+content:
+			本课程主要针对API开发者，介绍百度OCR文字识别接口服务的相关技术内容。通过本门课程你将掌握OCR研发能力。
+		
+title:百度人脸识别技术
+content:
+			本课程从技术简介、能力应用、热门场景实战等全方位讲解人脸识别基础相关技术，引领开发者快速入门。
+		

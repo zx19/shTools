@@ -25,3 +25,4 @@ and the new contents you specify will be added to whatever's there.
 # Dog.new.wang
 #awa------
 
+puts File.basename('/Users/xizhang/Documents/XingShuLin/XSLUser/Example/Pods/Local Podspecs/SDWebImage.podspec.json', '.podspec.json')

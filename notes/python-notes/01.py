@@ -10,6 +10,7 @@ import cmath
 
 # print tag     
 
+if __name__ == '__main__':
 
 numbers = [1,23,4,56,7,8]
 
@@ -34,6 +35,11 @@ print a.count(1)
 
 print a.index(3)
 print cmp(0,1)
+
+if 1:
+elif 2:
+else
+
 
 
 
